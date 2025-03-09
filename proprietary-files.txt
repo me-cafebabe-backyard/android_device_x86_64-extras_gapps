@@ -1,6 +1,6 @@
 # Based on difference on file list between non-GMS and GMS build
-# Download: https://developer.android.com/topic/generic-system-image/releases#15-qpr1-stable
-# Version: google/gsi_gms_x86_64/generic_x86_64:15/AP4A.241205.013/12621605:user/release-keys
+# Download: https://developer.android.google.cn/topic/generic-system-image/releases#15-qpr2
+# Version: google/gsi_gms_x86_64/generic_x86_64:15/BP11.241210.004/12926906:user/release-keys
 
 # Google Apps
 product/app/Drive/Drive.apk;PRESIGNED
@@ -24,7 +24,7 @@ product/priv-app/ConfigUpdater/ConfigUpdater.apk;PRESIGNED
 product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk;PRESIGNED
 product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk;PRESIGNED
 product/priv-app/Phonesky/Phonesky.apk;PRESIGNED
-product/priv-app/PrebuiltGmsCore/m/independent/AndroidPlatformServices.apk;PRESIGNED
+product/priv-app/PrebuiltGmsCore/m/independent/AndroidPlatformServices/AndroidPlatformServices.apk;PRESIGNED
 product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk;PRESIGNED
 product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk;PRESIGNED
 product/priv-app/Velvet/Velvet.apk;PRESIGNED
