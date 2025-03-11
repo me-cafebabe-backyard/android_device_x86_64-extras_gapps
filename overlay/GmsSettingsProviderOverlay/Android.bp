@@ -1,4 +1,4 @@
 runtime_resource_overlay {
-    name: "GmsSettingsProviderOverlay",
+    name: "x86MtgGmsSettingsProviderOverlay",
     product_specific: true
 }

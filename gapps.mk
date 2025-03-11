@@ -1,9 +1,9 @@
 # From MindTheGapps
 PRODUCT_PACKAGES += \
-    GmsOverlay \
-    GmsSettingsOverlay \
-    GmsSettingsProviderOverlay \
-    GmsSetupWizardOverlay
+    x86MtgGmsOverlay \
+    x86MtgGmsSettingsOverlay \
+    x86MtgGmsSettingsProviderOverlay \
+    x86MtgGmsSetupWizardOverlay
 
 # From system image that matches with proprietary-files.txt
 PRODUCT_PRODUCT_PROPERTIES += \
