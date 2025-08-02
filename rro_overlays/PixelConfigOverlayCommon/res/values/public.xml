@@ -26,7 +26,6 @@
     <public type="color" name="error_color_device_default_dark" id="0x7f030001" />
     <public type="color" name="error_color_device_default_light" id="0x7f030002" />
     <public type="color" name="system_error" id="0x7f030003" />
-    <public type="color" name="user_icon_1" id="0x7f030004" />
     <public type="dimen" name="config_bottomDialogCornerRadius" id="0x7f040000" />
     <public type="dimen" name="config_buttonCornerRadius" id="0x7f040001" />
     <public type="dimen" name="config_dialogCornerRadius" id="0x7f040002" />
