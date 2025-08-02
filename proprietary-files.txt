@@ -10,7 +10,6 @@ product/app/LicenseChecker/LicenseChecker.apk;PRESIGNED
 product/app/Maps/Maps.apk;PRESIGNED
 product/app/MarkupGoogle_v2/MarkupGoogle_v2.apk;PRESIGNED
 product/app/Photos/Photos.apk;PRESIGNED
-product/app/PixelThemesStub/PixelThemesStub.apk;PRESIGNED
 product/app/PrebuiltGmail/PrebuiltGmail.apk;PRESIGNED
 product/app/PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk;PRESIGNED
 product/app/PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk;PRESIGNED
@@ -39,7 +38,6 @@ product/framework/com.google.android.dialer.support.jar
 product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk;PRESIGNED
 product/priv-app/ConfigUpdater/ConfigUpdater.apk;PRESIGNED
 product/priv-app/DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02/DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02.apk;PRESIGNED
-product/priv-app/DevicePersonalizationPrebuiltPixel2021-bfinal_aiai_20250217.00_RC08/DevicePersonalizationPrebuiltPixel2021-bfinal_aiai_20250217.00_RC08.apk;PRESIGNED
 product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk;PRESIGNED
 product/priv-app/GoogleRestorePrebuilt-v717308/GoogleRestorePrebuilt-v717308.apk;PRESIGNED
 product/priv-app/KidsSupervisionStub/KidsSupervisionStub.apk;PRESIGNED
