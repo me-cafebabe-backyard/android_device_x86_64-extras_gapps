@@ -84,7 +84,6 @@
     <public type="string" name="config_sharedConnectivityServicePackage" id="0x7f050026" />
     <public type="string" name="config_systemActivityRecognizer" id="0x7f050027" />
     <public type="string" name="config_systemAutomotiveProjection" id="0x7f050028" />
-    <public type="string" name="config_systemBluetoothStack" id="0x7f050029" />
     <public type="string" name="config_systemCallStreaming" id="0x7f05002a" />
     <public type="string" name="config_systemCompanionDeviceProvider" id="0x7f05002b" />
     <public type="string" name="config_systemContacts" id="0x7f05002c" />
