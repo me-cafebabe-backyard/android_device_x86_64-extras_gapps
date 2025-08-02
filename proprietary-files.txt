@@ -56,10 +56,8 @@ system/app/GoogleExtShared/GoogleExtShared.apk;PRESIGNED
 system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk;PRESIGNED
 system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk;PRESIGNED
 system_ext/app/EmergencyInfoGoogleNoUi/EmergencyInfoGoogleNoUi.apk;PRESIGNED
-system_ext/etc/permissions/com.google.android.googlesdksetup.xml
 system_ext/etc/permissions/privapp-permissions-google-se.xml
 system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk;PRESIGNED
-system_ext/priv-app/GoogleSdkSetup/GoogleSdkSetup.apk;PRESIGNED
 system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk;PRESIGNED
 system_ext/priv-app/QuickAccessWallet/QuickAccessWallet.apk;PRESIGNED
 system_ext/priv-app/ThemePicker/ThemePicker.apk;PRESIGNED
