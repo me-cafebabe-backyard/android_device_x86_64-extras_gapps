@@ -107,5 +107,4 @@
     <public type="string" name="vendor_required_attestation_revocation_list_url" id="0x7f05003c" />
     <public type="string" name="widget_default_class_name" id="0x7f05003d" />
     <public type="string" name="widget_default_package_name" id="0x7f05003e" />
-    <public type="xml" name="bookmarks" id="0x7f060000" />
 </resources>
