@@ -65,5 +65,4 @@ product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk;PRESIGNED
 product/app/GoogleContacts/GoogleContacts.apk;PRESIGNED
 product/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk;PRESIGNED
 product/priv-app/GoogleDialer/GoogleDialer.apk;PRESIGNED
-system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;PRESIGNED
 system/priv-app/TagGoogle/TagGoogle.apk;PRESIGNED
