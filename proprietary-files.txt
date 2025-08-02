@@ -52,7 +52,6 @@ product/priv-app/SafetyHubPrebuilt/SafetyHubPrebuilt.apk;PRESIGNED
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED
 product/priv-app/Velvet/Velvet.apk;PRESIGNED
 product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk;PRESIGNED
-system/app/GoogleBluetoothLegacyMigration/GoogleBluetoothLegacyMigration.apk;PRESIGNED
 system/app/GoogleExtShared/GoogleExtShared.apk;PRESIGNED
 system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk;PRESIGNED
 system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk;PRESIGNED
