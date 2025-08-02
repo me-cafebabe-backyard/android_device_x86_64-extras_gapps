@@ -14,7 +14,6 @@ product/app/PixelThemesStub/PixelThemesStub.apk;PRESIGNED
 product/app/PrebuiltGmail/PrebuiltGmail.apk;PRESIGNED
 product/app/PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk;PRESIGNED
 product/app/PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk;PRESIGNED
-product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk;PRESIGNED
 product/app/talkback/talkback.apk;PRESIGNED
 product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk;PRESIGNED
 product/app/YouTube/YouTube.apk;PRESIGNED
@@ -60,14 +59,11 @@ system_ext/etc/permissions/privapp-permissions-google-se.xml
 system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk;PRESIGNED
 system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk;PRESIGNED
 system_ext/priv-app/QuickAccessWallet/QuickAccessWallet.apk;PRESIGNED
-system_ext/priv-app/ThemePicker/ThemePicker.apk;PRESIGNED
-system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;PRESIGNED
 
 # Google Apps (replacement to AOSP apps)
 product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk;PRESIGNED
 product/app/GoogleContacts/GoogleContacts.apk;PRESIGNED
 product/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk;PRESIGNED
 product/priv-app/GoogleDialer/GoogleDialer.apk;PRESIGNED
-system_ext/priv-app/AvatarPickerGoogle/AvatarPickerGoogle.apk;PRESIGNED
 system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;PRESIGNED
 system/priv-app/TagGoogle/TagGoogle.apk;PRESIGNED
