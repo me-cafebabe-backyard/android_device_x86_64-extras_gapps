@@ -54,9 +54,7 @@
     <string name="config_powerSaveModeChangedListenerPackage">com.google.android.flipendo</string>
     <string name="config_retailDemoPackage">com.google.android.retaildemo</string>
     <string name="config_retailDemoPackageSignature">6547c73dee150c103980bfdffe55cc9a011d785dd694a5f99afd8205bcaf1f80</string>
-    <string name="config_systemAmbientAudioIntelligence">com.google.android.as</string>
     <string name="config_systemAppProtectionService">com.google.android.odad</string>
-    <string name="config_systemAudioIntelligence">com.google.android.as</string>
     <string name="config_systemImageEditor">com.google.android.markup/com.google.android.markup.AnnotateActivity</string>
     <string name="config_systemNotificationIntelligence">com.google.android.as</string>
     <string name="config_systemSupervision">com.google.android.gms.supervision</string>

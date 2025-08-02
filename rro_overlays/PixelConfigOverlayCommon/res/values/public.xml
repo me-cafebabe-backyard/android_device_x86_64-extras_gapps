@@ -107,9 +107,7 @@
     <public type="string" name="config_powerSaveModeChangedListenerPackage" id="0x7f070034" />
     <public type="string" name="config_retailDemoPackage" id="0x7f070036" />
     <public type="string" name="config_retailDemoPackageSignature" id="0x7f070037" />
-    <public type="string" name="config_systemAmbientAudioIntelligence" id="0x7f070039" />
     <public type="string" name="config_systemAppProtectionService" id="0x7f07003a" />
-    <public type="string" name="config_systemAudioIntelligence" id="0x7f07003b" />
     <public type="string" name="config_systemImageEditor" id="0x7f07003c" />
     <public type="string" name="config_systemNotificationIntelligence" id="0x7f07003d" />
     <public type="string" name="config_systemSupervision" id="0x7f07003e" />
