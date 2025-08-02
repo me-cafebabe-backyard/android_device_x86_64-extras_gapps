@@ -80,7 +80,6 @@
     <public type="string" name="config_persistentDataPackageName" id="0x7f050021" />
     <public type="string" name="config_primaryLocationTimeZoneProviderPackageName" id="0x7f050022" />
     <public type="string" name="config_secondaryLocationTimeZoneProviderPackageName" id="0x7f050023" />
-    <public type="string" name="config_servicesExtensionPackage" id="0x7f050024" />
     <public type="string" name="config_sharedConnectivityServiceIntentAction" id="0x7f050025" />
     <public type="string" name="config_sharedConnectivityServicePackage" id="0x7f050026" />
     <public type="string" name="config_systemActivityRecognizer" id="0x7f050027" />
