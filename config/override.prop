@@ -1,4 +1,5 @@
 ro.build.description=sdk_gphone64_x86_64-userdebug 16 BP22.250325.006 13344233 dev-keys
+ro.build.version.security_patch=2025-04-05
 
 ro.product.product.brand=google
 ro.product.product.device=emu64xa
