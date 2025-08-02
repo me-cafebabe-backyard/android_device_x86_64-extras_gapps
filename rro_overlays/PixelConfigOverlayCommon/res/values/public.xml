@@ -77,7 +77,6 @@
     <public type="string" name="config_defaultDndAccessPackages" id="0x7f070014" />
     <public type="string" name="config_defaultFieldClassificationService" id="0x7f070015" />
     <public type="string" name="config_defaultListenerAccessPackages" id="0x7f070016" />
-    <public type="string" name="config_defaultModuleMetadataProvider" id="0x7f070017" />
     <public type="string" name="config_defaultMusicRecognitionService" id="0x7f070018" />
     <public type="string" name="config_defaultOnDeviceIntelligenceDeviceConfigNamespace" id="0x7f070019" />
     <public type="string" name="config_defaultOnDeviceIntelligenceService" id="0x7f07001a" />
