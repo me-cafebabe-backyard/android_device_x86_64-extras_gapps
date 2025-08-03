@@ -1,10 +1,3 @@
-# From MindTheGapps
-PRODUCT_PACKAGES += \
-    x86MtgGmsOverlay \
-    x86MtgGmsSettingsOverlay \
-    x86MtgGmsSettingsProviderOverlay \
-    x86MtgGmsSetupWizardOverlay
-
 # From system image that matches with proprietary-files.txt
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.com.google.gmsversion=14_beta \
