@@ -1,3 +1,6 @@
+PRODUCT_PACKAGES += \
+    GoogleConfigOverlay
+
 # From system image that matches with proprietary-files.txt
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.com.google.gmsversion=14_beta \
