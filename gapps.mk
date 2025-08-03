@@ -1,4 +1,7 @@
 PRODUCT_PACKAGES += \
+    override.prop
+
+PRODUCT_PACKAGES += \
     GoogleConfigOverlay
 
 # From system image that matches with proprietary-files.txt

@@ -1,0 +1,4 @@
+prebuilt_etc {
+    name: "override.prop",
+    src: "override.prop",
+}
