@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA-256-Digest-Manifest: GLtGPRTHQvakcYO8QZw9y1acruyVp6GOdXf7e6E5j5k=
+SHA-256-Digest-Manifest: kaztjgzNTbEJENPCSOvisI4cpCB+m133Aln+5Ad989I=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
@@ -16,7 +16,7 @@ Name: res/xml/bookmarks.xml
 SHA-256-Digest: bf3QE42OtfJHapRx3OarARmP3fwYo4MEArig5Q+9eEo=
 
 Name: resources.arsc
-SHA-256-Digest: aEbKgYY4+b2rfYcaZGOTXc8CPbIUbvXtbxDQ1MqSirM=
+SHA-256-Digest: 6/Tdf5leLKn6f05ZtMdK6bVpNjiLKfop37+BSaQtwZk=
 
 Name: stamp-cert-sha256
 SHA-256-Digest: L0p4Bm/NGffFWX26fUKi8jlq3aKsfwyEBtSavY6F0c0=

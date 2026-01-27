@@ -16,7 +16,7 @@ versionInfo:
   versionName: 1.0
 resourcesAreCompressed: false
 sharedLibrary: false
-sparseResources: false
+sparseResources: true
 unknownFiles:
   stamp-cert-sha256: 8
 doNotCompress:

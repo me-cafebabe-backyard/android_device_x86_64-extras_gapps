@@ -13,7 +13,7 @@ Name: res/xml/bookmarks.xml
 SHA-256-Digest: rlPJlKlKXeR/DpE5xvdMlLv/npPO/+5qY960gM+qj1w=
 
 Name: resources.arsc
-SHA-256-Digest: Pqxoc2AxGgo0XyYtB/Rubi+F2yJE6KFHHZx3sz2Ey2Q=
+SHA-256-Digest: 4ZYaLw28HSYd4kBe8QNPNXkHcVcV4b7b0qOhjWsbb3E=
 
 Name: stamp-cert-sha256
 SHA-256-Digest: HZwqAqk4Fv9ceuZPmq0Cwj3kncUUYg2xp61iTSqDZ5w=

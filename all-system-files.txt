@@ -61,9 +61,6 @@ system/app/CompanionDeviceManager/oat/x86_64/CompanionDeviceManager.vdex
 system/app/EasterEgg/EasterEgg.apk
 system/app/EasterEgg/oat/x86_64/EasterEgg.odex
 system/app/EasterEgg/oat/x86_64/EasterEgg.vdex
-system/app/GoogleBluetoothLegacyMigration/GoogleBluetoothLegacyMigration.apk
-system/app/GoogleBluetoothLegacyMigration/oat/x86_64/GoogleBluetoothLegacyMigration.odex
-system/app/GoogleBluetoothLegacyMigration/oat/x86_64/GoogleBluetoothLegacyMigration.vdex
 system/app/GoogleExtShared/GoogleExtShared.apk
 system/app/GoogleExtShared/oat/x86_64/GoogleExtShared.odex
 system/app/GoogleExtShared/oat/x86_64/GoogleExtShared.vdex
@@ -203,7 +200,6 @@ system/bin/mediametrics
 system/bin/mediaserver32
 system/bin/mediaserver64
 system/bin/migrate_legacy_obb_data
-system/bin/mini-keyctl
 system/bin/misctrl
 system/bin/mke2fs
 system/bin/mkfs.erofs
@@ -308,6 +304,7 @@ system/etc/build_flags.json
 system/etc/cgroups.json
 system/etc/classpaths/bootclasspath.pb
 system/etc/classpaths/systemserverclasspath.pb
+system/etc/com.google.android.mainline.patchlevel.2.xml
 system/etc/compatconfig/calendar-provider-compat-config.xml
 system/etc/compatconfig/contacts-provider-platform-compat-config.xml
 system/etc/compatconfig/documents-ui-compat-config.xml
@@ -441,7 +438,6 @@ system/etc/permissions/platform.xml
 system/etc/permissions/privapp-permissions-google.xml
 system/etc/permissions/privapp-permissions-platform.xml
 system/etc/preloaded-classes
-system/etc/protolog.conf.json.gz
 system/etc/public.libraries.txt
 system/etc/res/images/charger/battery_fail.png
 system/etc/res/images/charger/battery_scale.png
@@ -601,7 +597,6 @@ system/etc/security/cacerts/fb5fa911.0
 system/etc/security/cacerts/fd08c599.0
 system/etc/security/cacerts/fde84897.0
 system/etc/security/cacerts/ffa7f1eb.0
-system/etc/security/fsverity/fsverity-release.x509.der
 system/etc/security/otacerts.zip
 system/etc/selinux/bug_map
 system/etc/selinux/mapping/202404.cil
@@ -1150,7 +1145,6 @@ system/lib64/android.adpf.sessionmanager_aidl-ndk.so
 system/lib64/android.companion.virtualdevice.flags-aconfig-cc.so
 system/lib64/android.companion.virtual.virtualdevice_aidl-cpp.so
 system/lib64/android.database.sqlite-aconfig-cc.so
-system/lib64/android.frameworks.schedulerservice@1.0.so
 system/lib64/android.frameworks.sensorservice@1.0.so
 system/lib64/android.frameworks.sensorservice-V1-ndk.so
 system/lib64/android.frameworks.stats@1.0.so
@@ -1230,7 +1224,7 @@ system/lib64/android.hardware.graphics.bufferqueue@2.0.so
 system/lib64/android.hardware.graphics.common@1.0.so
 system/lib64/android.hardware.graphics.common@1.1.so
 system/lib64/android.hardware.graphics.common@1.2.so
-system/lib64/android.hardware.graphics.common-V6-ndk.so
+system/lib64/android.hardware.graphics.common-V7-ndk.so
 system/lib64/android.hardware.graphics.composer@2.1.so
 system/lib64/android.hardware.graphics.composer@2.2.so
 system/lib64/android.hardware.graphics.composer@2.3.so
@@ -1297,7 +1291,6 @@ system/lib64/android.hardware.tv.tuner-V3-ndk.so
 system/lib64/android.hardware.usb.gadget@1.0.so
 system/lib64/android.hardware.usb.gadget-V1-ndk.so
 system/lib64/android.hardware.vibrator-V3-ndk.so
-system/lib64/android.hardware.vr@1.0.so
 system/lib64/android.hidl.allocator@1.0.so
 system/lib64/android.hidl.memory@1.0.so
 system/lib64/android.hidl.memory.token@1.0.so
@@ -1313,7 +1306,6 @@ system/lib64/android.media.audio.eraser.types-V1-ndk.so
 system/lib64/android.media.audiopolicy-aconfig-cc.so
 system/lib64/android.os.flags-aconfig-cc-host.so
 system/lib64/android.os.flags-aconfig-cc.so
-system/lib64/android.os.statsbootstrap_aidl-cpp.so
 system/lib64/android.os.vibrator.flags-aconfig-cc.so
 system/lib64/android.security.aaid_aidl-cpp.so
 system/lib64/android.security.apc-ndk.so
@@ -1328,7 +1320,6 @@ system/lib64/android.system.suspend.control.internal-cpp.so
 system/lib64/android.system.suspend.control-V1-cpp.so
 system/lib64/android.system.suspend-V1-ndk.so
 system/lib64/apex_aidl_interface-cpp.so
-system/lib64/apexd_flags_c_lib.so
 system/lib64/audioclient-types-aidl-cpp.so
 system/lib64/audioflinger-aidl-cpp.so
 system/lib64/audio-permission-aidl-cpp.so
@@ -1354,7 +1345,6 @@ system/lib64/drm/libfwdlockengine.so
 system/lib64/dynamic_instrumentation_manager_aidl-cpp.so
 system/lib64/effect-aidl-cpp.so
 system/lib64/framework-permission-aidl-cpp.so
-system/lib64/gpuservice_multiuser_flags_c_lib.so
 system/lib64/graphicbuffersource-aidl-ndk.so
 system/lib64/gsi_aidl_interface-cpp.so
 system/lib64/heapprofd_client_api.so
@@ -1518,7 +1508,6 @@ system/lib64/libegl_flags.so
 system/lib64/libEGL.so
 system/lib64/libenv_filter.dylib.so
 system/lib64/libenv_logger.dylib.so
-system/lib64/liberrno.dylib.so
 system/lib64/libETC1.so
 system/lib64/libevent.so
 system/lib64/libexif.so
@@ -1533,7 +1522,6 @@ system/lib64/libext2_quota.so
 system/lib64/libext2_uuid.so
 system/lib64/libext4_utils.so
 system/lib64/libf2fs_sparseblock.so
-system/lib64/libfastrand.dylib.so
 system/lib64/libfdtrack.so
 system/lib64/libfec.so
 system/lib64/libFFTEm.so
@@ -1564,7 +1552,6 @@ system/lib64/libharfbuzz_ng.so
 system/lib64/libharfbuzz_subset.so
 system/lib64/libheadtracking-binding.so
 system/lib64/libheadtracking.so
-system/lib64/libheif.so
 system/lib64/libhidcommand_jni.so
 system/lib64/libhidlallocatorutils.so
 system/lib64/libhidlbase.so
@@ -1604,7 +1591,6 @@ system/lib64/libkeystore2_aaid.so
 system/lib64/libkeystore2_apc_compat.so
 system/lib64/libkeystore2_crypto.so
 system/lib64/libkeystore-attestation-application-id.so
-system/lib64/libkeyutils.so
 system/lib64/libkll.so
 system/lib64/libkm_compat_service.so
 system/lib64/libkm_compat.so
@@ -1703,6 +1689,7 @@ system/lib64/libprotoutil.so
 system/lib64/libpsi.so
 system/lib64/libpuresoftkeymasterdevice.so
 system/lib64/libradio_metadata.so
+system/lib64/libregex_automata.dylib.so
 system/lib64/libregex.dylib.so
 system/lib64/libregex_syntax.dylib.so
 system/lib64/libremote-processor.so
@@ -1714,9 +1701,7 @@ system/lib64/libRS_internal.so
 system/lib64/librs_jni.so
 system/lib64/libRS.so
 system/lib64/librtp_jni.so
-system/lib64/librustix.dylib.so
 system/lib64/librustutils.dylib.so
-system/lib64/libschedulerservicehidl.so
 system/lib64/libselinux.so
 system/lib64/libsensorprivacy.so
 system/lib64/libsensorserviceaidl.so
@@ -1761,7 +1746,9 @@ system/lib64/libstagefright_xmlparser.so
 system/lib64/libstatic_assertions.dylib.so
 system/lib64/libstatsbootstrap.so
 system/lib64/libstatshidl.so
-system/lib64/libstatslog.so
+system/lib64/libstatslog_gpustats.so
+system/lib64/libstatslog_inputflinger.so
+system/lib64/libstatslog_surfaceflinger_bootstrap.so
 system/lib64/libstatslog_surfaceflinger.so
 system/lib64/libstats_media_metrics.so
 system/lib64/libstdc++.so
@@ -1771,7 +1758,6 @@ system/lib64/libSurfaceFlingerProp.so
 system/lib64/libsync.so
 system/lib64/libsystem_properties_bindgen_sys.dylib.so
 system/lib64/libsysutils.so
-system/lib64/libtempfile.dylib.so
 system/lib64/libthiserror.dylib.so
 system/lib64/libtimeinstate.so
 system/lib64/libtimestats_atoms_proto.so
@@ -1787,6 +1773,7 @@ system/lib64/libukey2_jni.so
 system/lib64/libultrahdr.so
 system/lib64/libunwindstack.so
 system/lib64/libupdate_engine_stable-V3-cpp.so
+system/lib64/liburingutils.so
 system/lib64/libusbhost.so
 system/lib64/libutilscallstack.so
 system/lib64/libutils.so
@@ -1809,6 +1796,7 @@ system/lib64/libyuv.so
 system/lib64/libzerocopy.dylib.so
 system/lib64/libziparchive.so
 system/lib64/libz.so
+system/lib64/logd_flags_c_lib.so
 system/lib64/mdns_aidl_interface-V1-cpp.so
 system/lib64/mediametricsservice-aidl-cpp.so
 system/lib64/media_permission-aidl-cpp.so
@@ -1830,7 +1818,6 @@ system/lib/aconfig_view_accessibility_flags_c_lib.so
 system/lib/android.companion.virtualdevice.flags-aconfig-cc.so
 system/lib/android.companion.virtual.virtualdevice_aidl-cpp.so
 system/lib/android.database.sqlite-aconfig-cc.so
-system/lib/android.frameworks.schedulerservice@1.0.so
 system/lib/android.frameworks.sensorservice@1.0.so
 system/lib/android.frameworks.sensorservice-V1-ndk.so
 system/lib/android.frameworks.stats@1.0.so
@@ -1888,7 +1875,7 @@ system/lib/android.hardware.graphics.bufferqueue@2.0.so
 system/lib/android.hardware.graphics.common@1.0.so
 system/lib/android.hardware.graphics.common@1.1.so
 system/lib/android.hardware.graphics.common@1.2.so
-system/lib/android.hardware.graphics.common-V6-ndk.so
+system/lib/android.hardware.graphics.common-V7-ndk.so
 system/lib/android.hardware.graphics.composer3-V4-ndk.so
 system/lib/android.hardware.graphics.mapper@2.0.so
 system/lib/android.hardware.graphics.mapper@2.1.so
@@ -1938,7 +1925,6 @@ system/lib/android.hardware.tv.input@1.0.so
 system/lib/android.hardware.tv.input-V3-ndk.so
 system/lib/android.hardware.tv.tuner-V3-ndk.so
 system/lib/android.hardware.vibrator-V3-ndk.so
-system/lib/android.hardware.vr@1.0.so
 system/lib/android.hidl.allocator@1.0.so
 system/lib/android.hidl.memory@1.0.so
 system/lib/android.hidl.memory.token@1.0.so
@@ -2096,7 +2082,6 @@ system/lib/libhardware_legacy.so
 system/lib/libhardware.so
 system/lib/libharfbuzz_ng.so
 system/lib/libharfbuzz_subset.so
-system/lib/libheif.so
 system/lib/libhidlallocatorutils.so
 system/lib/libhidlbase.so
 system/lib/libhidlmemory.so
@@ -2198,7 +2183,6 @@ system/lib/libRS_internal.so
 system/lib/librs_jni.so
 system/lib/libRS.so
 system/lib/librtp_jni.so
-system/lib/libschedulerservicehidl.so
 system/lib/libselinux.so
 system/lib/libsensorprivacy.so
 system/lib/libsensorserviceaidl.so
@@ -2233,7 +2217,8 @@ system/lib/libstagefright.so
 system/lib/libstagefright_surface_utils.so
 system/lib/libstagefright_xmlparser.so
 system/lib/libstatshidl.so
-system/lib/libstatslog.so
+system/lib/libstatslog_inputflinger.so
+system/lib/libstatslog_surfaceflinger.so
 system/lib/libstats_media_metrics.so
 system/lib/libstdc++.so
 system/lib/libSurfaceFlingerProp.so
@@ -2362,6 +2347,9 @@ system/priv-app/NetworkStackGoogle/oat/x86_64/NetworkStackGoogle.vdex
 system/priv-app/ONS/oat/x86_64/ONS.odex
 system/priv-app/ONS/oat/x86_64/ONS.vdex
 system/priv-app/ONS/ONS.apk
+system/priv-app/PrivateSpace/oat/x86_64/PrivateSpace.odex
+system/priv-app/PrivateSpace/oat/x86_64/PrivateSpace.vdex
+system/priv-app/PrivateSpace/PrivateSpace.apk
 system/priv-app/ProxyHandler/oat/x86_64/ProxyHandler.odex
 system/priv-app/ProxyHandler/oat/x86_64/ProxyHandler.vdex
 system/priv-app/ProxyHandler/ProxyHandler.apk
@@ -2492,6 +2480,7 @@ system/product/etc/sysconfig/betafeedback.xml
 system/product/etc/sysconfig/google-hiddenapi-package-whitelist.xml
 system/product/etc/sysconfig/google.xml
 system/product/etc/sysconfig/initial-package-stopped-states-aosp.xml
+system/product/etc/sysconfig/preinstalled_packages_gms_mandatory_product.xml
 system/product/etc/sysconfig/preinstalled-packages-platform-aosp-product.xml
 system/product/etc/sysconfig/preinstalled-packages-platform-handheld-product.xml
 system/product/etc/sysconfig/preinstalled-packages-platform-overlays.xml
@@ -2850,9 +2839,9 @@ system/system_ext/etc/selinux/system_ext_service_contexts
 system/system_ext/etc/selinux/system_ext_tee_service_contexts
 system/system_ext/etc/sysconfig/android.telephony.satellite.xml
 system/system_ext/etc/sysconfig/preinstalled-packages-com.android.google.avatarpicker.xml
+system/system_ext/etc/sysconfig/preinstalled_packages_handheld_system_ext.xml
 system/system_ext/etc/vintf/manifest/android.hidl.allocator@1.0-service.xml
 system/system_ext/etc/vintf/manifest.xml
-system/system_ext/etc/wmshell.protolog.json.gz
 system/system_ext/etc/wmshell.protolog.pb
 system/system_ext/framework/androidx.window.extensions.jar
 system/system_ext/framework/androidx.window.sidecar.jar
