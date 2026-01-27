@@ -10,10 +10,10 @@ Name: res/raw/fallback_categories.csv
 SHA-256-Digest: 5Jyw/UFGPrS15gG0OUeJp7a21YFLmtQuvkm1VSdtDro=
 
 Name: res/xml/bookmarks.xml
-SHA-256-Digest: rlPJlKlKXeR/DpE5xvdMlLv/npPO/+5qY960gM+qj1w=
+SHA-256-Digest: clK/S1oO2wv/xM5QEc8ZlVrhHg88ZYcgBU4mIWEYxBA=
 
 Name: resources.arsc
-SHA-256-Digest: 4ZYaLw28HSYd4kBe8QNPNXkHcVcV4b7b0qOhjWsbb3E=
+SHA-256-Digest: pI2PKbV5o6VUyZDzqSlx7GlImnwfiTqTpRJGF75Q+e4=
 
 Name: stamp-cert-sha256
 SHA-256-Digest: HZwqAqk4Fv9ceuZPmq0Cwj3kncUUYg2xp61iTSqDZ5w=

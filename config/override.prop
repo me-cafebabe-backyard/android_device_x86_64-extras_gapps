@@ -1,24 +1,24 @@
-ro.build.description=gsi_gms_x86_64-user 16 BP3A.250905.014 13873947 release-keys
-ro.build.fingerprint=google/gsi_gms_x86_64/generic_x86_64:16/BP3A.250905.014/13873947:user/release-keys
-ro.build.version.security_patch=2025-09-05
+ro.build.description=generic_system_google-user 16 BP4A.251205.006 14401865 release-keys
+ro.build.fingerprint=google/gsi_gms_x86_64/generic_x86_64:16/BP4A.251205.006/14401865:user/release-keys
+ro.build.version.security_patch=2025-12-05
 
 ro.product.product.brand=google
 ro.product.product.device=generic_x86_64
 ro.product.product.manufacturer=Google
 ro.product.product.model=GMS on x86_64
 ro.product.product.name=gsi_gms_x86_64
-ro.product.build.fingerprint=google/gsi_gms_x86_64/generic_x86_64:16/BP3A.250905.014/13873947:user/release-keys
+ro.product.build.fingerprint=google/gsi_gms_x86_64/generic_x86_64:16/BP4A.251205.006/14401865:user/release-keys
 
 ro.product.system.brand=google
 ro.product.system.device=generic
 ro.product.system.manufacturer=Google
-ro.product.system.model=mainline
-ro.product.system.name=mainline
-ro.system.build.fingerprint=google/gsi_gms_x86_64/generic_x86_64:16/BP3A.250905.014/13873947:user/release-keys
+ro.product.system.model=Generic System
+ro.product.system.name=generic_system_google
+ro.system.build.fingerprint=google/gsi_gms_x86_64/generic_x86_64:16/BP4A.251205.006/14401865:user/release-keys
 
 ro.product.system_ext.brand=google
 ro.product.system_ext.device=generic_x86_64
 ro.product.system_ext.manufacturer=Google
 ro.product.system_ext.model=GMS on x86_64
 ro.product.system_ext.name=gsi_gms_x86_64
-ro.system_ext.build.fingerprint=google/gsi_gms_x86_64/generic_x86_64:16/BP3A.250905.014/13873947:user/release-keys
+ro.system_ext.build.fingerprint=google/gsi_gms_x86_64/generic_x86_64:16/BP4A.251205.006/14401865:user/release-keys

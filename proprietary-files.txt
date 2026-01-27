@@ -1,6 +1,6 @@
 # Based on difference on file list between non-GMS and GMS build
-# Download: https://developer.android.com/topic/generic-system-image/releases#16-qpr1-stable
-# Version: google/gsi_gms_x86_64/generic_x86_64:16/BP3A.250905.014/13873947:user/release-keys
+# Download: https://developer.android.com/topic/generic-system-image/releases#16-qpr2-stable
+# Version: google/gsi_gms_x86_64/generic_x86_64:16/BP4A.251205.006/14401865:user/release-keys
 
 # Google Apps
 product/app/Drive/Drive.apk;PRESIGNED
