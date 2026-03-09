@@ -1,3 +1,5 @@
+PRODUCT_SOONG_NAMESPACES += device/x86_64-extras/gapps
+
 PRODUCT_PACKAGES += \
     override.prop
 
