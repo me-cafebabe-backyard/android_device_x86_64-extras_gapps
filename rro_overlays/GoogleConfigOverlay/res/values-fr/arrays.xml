@@ -5,7 +5,8 @@
         <item>Certificat expiré</item>
         <item>Capteur temporairement désactivé</item>
         <item>Erreur de calibrage</item>
-        <item>"Le déverrouillage par reconnaissance faciale n'est pas disponible. Le téléphone est trop chaud."</item>
+        <item>Déverrouillage par reconnaissance faciale indisponible. Le téléphone est trop chaud.</item>
         <item>Vous devez reconfigurer le déverrouillage par reconnaissance faciale</item>
+        <item>Réglez la luminosité et ne bougez plus</item>
     </string-array>
 </resources>

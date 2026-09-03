@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 
 Name: AndroidManifest.xml
-SHA-256-Digest: aKWUccKissIovPEPFab0X3vuQ2P36Qb74RsLsOKz9WU=
+SHA-256-Digest: V55fm6h1FC5fLfK2/PoQL74Kg+wEn+6ibCFWmcazngE=
 
 Name: res/drawable/ic_safety_protection.xml
 SHA-256-Digest: O3eShCGeBbUFeKP6ONZAZtGYMPM5zbWoLBN8Qqyu+6M=
@@ -10,10 +10,10 @@ Name: res/raw/fallback_categories.csv
 SHA-256-Digest: 5Jyw/UFGPrS15gG0OUeJp7a21YFLmtQuvkm1VSdtDro=
 
 Name: res/xml/bookmarks.xml
-SHA-256-Digest: clK/S1oO2wv/xM5QEc8ZlVrhHg88ZYcgBU4mIWEYxBA=
+SHA-256-Digest: 9vwJENmc6rjyC5E7rkZnoHDlnAEppPnZJIFnHKImXYk=
 
 Name: resources.arsc
-SHA-256-Digest: pI2PKbV5o6VUyZDzqSlx7GlImnwfiTqTpRJGF75Q+e4=
+SHA-256-Digest: D82WgbWprr1iriEa9QJYhPCbezdIstO3Pnlb8s8Lkcs=
 
 Name: stamp-cert-sha256
 SHA-256-Digest: HZwqAqk4Fv9ceuZPmq0Cwj3kncUUYg2xp61iTSqDZ5w=

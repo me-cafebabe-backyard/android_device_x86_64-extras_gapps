@@ -6,6 +6,7 @@
         <item>传感器已暂时停用</item>
         <item>校准错误</item>
         <item>无法使用人脸解锁功能。手机过热。</item>
-        <item>您需要重新设置人脸解锁功能</item>
+        <item>需要重新设置人脸解锁功能</item>
+        <item>调整光线并保持稳定</item>
     </string-array>
 </resources>

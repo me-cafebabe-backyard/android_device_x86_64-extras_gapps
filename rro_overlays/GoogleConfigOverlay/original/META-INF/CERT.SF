@@ -1,10 +1,10 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA-256-Digest-Manifest: tZf4OKvUfurHIHCGWgPgEjNULSWpRhXRhWoZqDcPrNI=
+SHA-256-Digest-Manifest: r7SwU8Y0BOG5XHAJ+EIEu3MfIqJlj1udE63bf9fmKfw=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
-SHA-256-Digest: WAITkt9HYgEBHBdUde0dQL5YsGa6Az7arhMh8ce6UPc=
+SHA-256-Digest: Jnl2W2nU7680mwcU3YkQvHaNDzeg05dpjkt1tfWC5h4=
 
 Name: res/drawable/ic_safety_protection.xml
 SHA-256-Digest: 8eC0VQrpT6oxvDriE0Y1nmg13R/pUHCIlrqrC9/vizA=
@@ -13,10 +13,10 @@ Name: res/raw/fallback_categories.csv
 SHA-256-Digest: euVU7fN5DxW15pQKYG4MZHZFust7kLK5z1BnrGCT7jQ=
 
 Name: res/xml/bookmarks.xml
-SHA-256-Digest: HhJdp5KkZ3506diDjCd06DFvmZ9WuG8omFvWKlSlNto=
+SHA-256-Digest: 4CRT+k1wFs64WGfWenjs0Gc64qsepAM5PMGC+bLfw50=
 
 Name: resources.arsc
-SHA-256-Digest: 5ONln7E35fkVMSqERYHkv0Xwg4bKCG2ttCj+pWXAEl0=
+SHA-256-Digest: mpQVY1LEjykFp4vqqrFH+pUPtNYCfLmvMBTCLGG5RXg=
 
 Name: stamp-cert-sha256
 SHA-256-Digest: L0p4Bm/NGffFWX26fUKi8jlq3aKsfwyEBtSavY6F0c0=

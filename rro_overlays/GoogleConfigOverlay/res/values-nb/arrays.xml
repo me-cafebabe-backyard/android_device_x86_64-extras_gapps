@@ -5,7 +5,8 @@
         <item>Sertifikatet er utløpt</item>
         <item>Sensoren er midlertidig slått av</item>
         <item>Kalibreringsfeil</item>
-        <item>Ansiktslås er utilgjengelig. Telefonen er for varm.</item>
-        <item>Ansiktslås må konfigureres på nyttt</item>
+        <item>Ansiktslås utilgjengelig. Telefonen er for varm.</item>
+        <item>Ansiktslåsen må konfigureres på nytt</item>
+        <item>Juster belysningen, og hold enheten i ro</item>
     </string-array>
 </resources>

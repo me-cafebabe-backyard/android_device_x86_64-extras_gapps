@@ -5,7 +5,8 @@
         <item>Varmenne vanhentunut</item>
         <item>Tunnistin väliaikaisesti pois käytöstä</item>
         <item>Kalibrointivirhe</item>
-        <item>Kasvojentunnistusavaus ei ole saatavilla. Puhelin on liian kuuma.</item>
-        <item>Kasvojentunnistusavaus on määritettävä uudelleen</item>
+        <item>Kasvojentunnistusavaus ei käytettävissä. Puhelin on liian kuuma.</item>
+        <item>Kasvojentunnistusavaus on otettava käyttöön uudelleen</item>
+        <item>Säädä valaistusta ja pidä laite paikallaan</item>
     </string-array>
 </resources>

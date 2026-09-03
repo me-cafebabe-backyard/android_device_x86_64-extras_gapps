@@ -5,7 +5,8 @@
         <item>Nag-expire na ang certificate</item>
         <item>Pansamantalang na-disable ang sensor</item>
         <item>Error sa pag-calibrate</item>
-        <item>Hindi available ang pag-unlock gamit ang mukha. Masyadong mainit ang telepono.</item>
-        <item>Kailangang i-set up ulit ang pag-unlock gamit ang mukha</item>
+        <item>Hindi available ang face unlock. Masyadong mainit ang telepono.</item>
+        <item>Kailangang i-set up ulit ang face unlock</item>
+        <item>I-adjust ang liwanag at huwag gumalaw</item>
     </string-array>
 </resources>

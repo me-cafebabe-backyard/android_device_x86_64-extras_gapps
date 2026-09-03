@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="36" android:compileSdkVersionCodename="16" package="com.google.android.overlay.googleconfig" platformBuildVersionCode="36" platformBuildVersionName="16">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="37" android:compileSdkVersionCodename="17" package="com.google.android.overlay.googleconfig" platformBuildVersionCode="37" platformBuildVersionName="17">
     <application android:extractNativeLibs="true" android:hasCode="false"/>
     <overlay android:isStatic="true" android:priority="0" android:targetPackage="android"/>
 </manifest>

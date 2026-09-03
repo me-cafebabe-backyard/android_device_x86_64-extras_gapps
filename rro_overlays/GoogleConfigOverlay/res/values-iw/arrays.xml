@@ -2,10 +2,11 @@
 <resources>
     <array name="face_acquired_vendor" />
     <string-array name="face_error_vendor">
-        <item>תוקף האישור פג</item>
+        <item>פג תוקף האישור</item>
         <item>החיישן מושבת באופן זמני</item>
         <item>שגיאה בכיול</item>
-        <item>פתיחה ע\"י זיהוי הפנים לא זמינה. הטלפון חם מדי.</item>
-        <item>"יש להגדיר שוב את התכונה 'פתיחה ע\"י זיהוי הפנים'"</item>
+        <item>אי אפשר לפתוח בזיהוי הפנים. הטלפון חם מדי.</item>
+        <item>צריך להגדיר שוב את \"פתיחה בזיהוי פנים\"</item>
+        <item>צריך להתאים את התאורה ולהחזיק את המכשיר בצורה יציבה</item>
     </string-array>
 </resources>

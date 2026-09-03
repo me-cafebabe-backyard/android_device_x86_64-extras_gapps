@@ -5,7 +5,8 @@
         <item>Certyfikat wygasł</item>
         <item>Czujnik tymczasowo wyłączony</item>
         <item>Błąd kalibracji</item>
-        <item>Rozpoznawanie twarzy jest niedostępne. Telefon jest zbyt gorący.</item>
+        <item>Rozpoznanie twarzy jest niedostępne. Telefon jest za gorący.</item>
         <item>Musisz ponownie skonfigurować rozpoznawanie twarzy</item>
+        <item>Dostosuj oświetlenie i nie ruszaj się</item>
     </string-array>
 </resources>

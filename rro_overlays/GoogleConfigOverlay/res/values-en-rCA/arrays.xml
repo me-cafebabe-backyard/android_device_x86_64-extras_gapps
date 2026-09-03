@@ -7,5 +7,6 @@
         <item>Calibration error</item>
         <item>Face unlock unavailable. Phone is too hot.</item>
         <item>Face unlock needs to be set up again</item>
+        <item>Adjust lighting and hold steady</item>
     </string-array>
 </resources>

@@ -5,7 +5,8 @@
         <item>Masa berlaku sertifikat habis</item>
         <item>Sensor dinonaktifkan untuk sementara</item>
         <item>Error kalibrasi</item>
-        <item>Face unlock tidak tersedia. Ponsel terlalu panas.</item>
-        <item>Face unlock perlu disiapkan lagi</item>
+        <item>Buka dengan Wajah tidak tersedia. Ponsel terlalu panas.</item>
+        <item>Buka dengan Wajah perlu disiapkan lagi</item>
+        <item>Sesuaikan pencahayaan dan pegang dengan stabil</item>
     </string-array>
 </resources>

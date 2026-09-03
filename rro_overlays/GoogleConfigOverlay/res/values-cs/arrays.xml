@@ -5,7 +5,8 @@
         <item>Platnost certifikátu vypršela</item>
         <item>Senzor je dočasně deaktivován</item>
         <item>Chyba kalibrace</item>
-        <item>Odemknutí obličejem je nedostupné. Telefon je příliš zahřátý.</item>
+        <item>Odemknutí obličejem není k dispozici. Telefon je příliš zahřátý.</item>
         <item>Odemknutí obličejem je třeba nastavit znovu</item>
+        <item>Upravte osvětlení a nehýbejte se</item>
     </string-array>
 </resources>

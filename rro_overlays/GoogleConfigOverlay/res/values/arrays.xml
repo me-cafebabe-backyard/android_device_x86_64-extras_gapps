@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="config_accessComputerControlKnownSigners">
-        <item>1975B2F17177BC89A5DFF31F9E64A6CAE281A53DC1D1D59B1D147FE1C82AFA00</item>
-        <item>7075F275C3B82619A37B1FA393B8F9D793F0B3F55148C6251AA959C340BB74B4</item>
-        <item>B8EAA018CA7394FD47A3FA7F1FEB7A6C570CD55D9FE968BC3829062B6656AE32</item>
-        <item>103938EE4537E59E8EE792F654504FB8346FC6B346D0BBC4415FC339FCFC8EC1</item>
-    </string-array>
     <string-array name="config_allowedSecureInstantAppSettings">
         <item>advertising_id</item>
         <item>limit_ad_tracking</item>
     </string-array>
-    <string-array name="config_appFunctionDeviceSettingsPackages">
+    <string-array name="config_appInteractionDeviceAssistancePackages">
         <item>com.android.settings</item>
         <item>com.google.android.permissioncontroller</item>
         <item>com.google.android.apps.wellbeing</item>
@@ -22,9 +16,11 @@
     </string-array>
     <string-array name="config_companionDeviceCerts">
         <item>48:ED:00:58:D1:B6:63:8E:39:A6:E4:C2:DF:1C:4D:5F:DF:59:3F:69:6B:F3:1B:09:A8:8F:93:14:1E:AF:60:0F</item>
+        <item>B0:CC:8F:45:4E:F3:42:C5:81:A2:EC:ED:1C:AD:BD:D4:ED:32:03:F4:E0:21:15:0C:97:53:6D:B9:6E:F8:60:FE</item>
     </string-array>
     <string-array name="config_companionDevicePackages">
         <item>com.google.android.apps.wear.companion</item>
+        <item>com.google.android.glasses.companion</item>
     </string-array>
     <string-array name="config_defaultAppFunctionAgentAllowlist">
         <item>com.google.android.googlequicksearchbox</item>
@@ -121,6 +117,7 @@
         <item>Calibration error</item>
         <item>Face unlock unavailable. Phone is too hot.</item>
         <item>Face unlock needs to be set up again</item>
+        <item>Adjust lighting and hold steady</item>
     </string-array>
     <string-array name="vendor_cross_profile_apps">
         <item>com.google.android.googlequicksearchbox</item>

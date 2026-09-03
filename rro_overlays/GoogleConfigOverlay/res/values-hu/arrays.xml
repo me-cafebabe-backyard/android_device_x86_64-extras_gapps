@@ -5,7 +5,8 @@
         <item>A tanúsítvány lejárt</item>
         <item>Az érzékelő átmenetileg le van tiltva</item>
         <item>Kalibrációs hiba</item>
-        <item>Az arcalapú feloldás nem áll rendelkezésre. A telefon túlmelegedett.</item>
+        <item>Az Arcalapú feloldás nem áll rendelkezésre. A telefon túlmelegedett.</item>
         <item>Az arcalapú feloldást újra be kell állítani</item>
+        <item>Állítsa be a megvilágítást, és tartsa stabilan</item>
     </string-array>
 </resources>

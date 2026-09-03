@@ -5,7 +5,8 @@
         <item>Sertifikaat het verval</item>
         <item>Sensor is tydelik gedeaktiveer</item>
         <item>Kalibrasiefout</item>
-        <item>Gesigslot is nie beskikbaar nie. Foon is te warm.</item>
+        <item>Gesigslot onbeskikbaar. Foon is te warm.</item>
         <item>Gesigslot moet weer opgestel word</item>
+        <item>Verstel beligting en hou stil</item>
     </string-array>
 </resources>

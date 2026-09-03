@@ -4,8 +4,9 @@
     <string-array name="face_error_vendor">
         <item>የእውቅና ማረጋገጫው ጊዜው አልፎበታል</item>
         <item>ዳሳሽ ለጊዜው ተሰናክሏል</item>
-        <item>የመቃኘት ስህተት</item>
+        <item>የማስተካከያ ስሕተት</item>
         <item>በመልክ መክፈት አይገኝም። ስልኩ በጣም ግሏል።</item>
-        <item>በመልክ መክፈት እንደገና መቀናበር አለበት</item>
+        <item>በመልክ መክፈት እንደገና መዋቀር ያስፈልገዋል</item>
+        <item>ብርሃንን ያስተካክሉ እና በተረጋጋ ሁኔታ ይያዙ</item>
     </string-array>
 </resources>

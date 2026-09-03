@@ -2,10 +2,11 @@
 <resources>
     <array name="face_acquired_vendor" />
     <string-array name="face_error_vendor">
-        <item>Muda wa kutumia cheti umekwisha</item>
-        <item>Kitambuzi kimezimwa kwa muda</item>
+        <item>Muda wa kutumia cheti umeisha</item>
+        <item>Umezima kitambuzi kwa muda</item>
         <item>Hitilafu ya urekebishaji</item>
         <item>Kipengele cha kufungua kwa uso hakipatikani. Simu ina joto sana.</item>
-        <item>Unahitaji kuweka tena mipangilio ya kipengele cha kufungua kwa uso</item>
+        <item>Unapaswa kuweka tena mipangilio ya kipengele cha kufungua kwa uso</item>
+        <item>Rekebisha mwangaza na ushikilie bila kutikisa</item>
     </string-array>
 </resources>
