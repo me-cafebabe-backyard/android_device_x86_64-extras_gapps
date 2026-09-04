@@ -5,7 +5,6 @@
 # Google Apps
 product/app/Drive/Drive.apk;PRESIGNED
 product/app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk;PRESIGNED
-product/app/GoogleTTS/GoogleTTS.apk;PRESIGNED
 product/app/LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk;PRESIGNED
 product/app/Maps/Maps.apk;PRESIGNED
 product/app/Photos/Photos.apk;PRESIGNED
